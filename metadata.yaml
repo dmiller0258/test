@@ -1,0 +1,6 @@
+BuildEngine: node
+maintainer:
+  email: test
+  name: test
+  slack: test
+type: test
